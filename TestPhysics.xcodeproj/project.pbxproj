@@ -13,7 +13,6 @@
 		886066631D6558D100AB9E40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 886066621D6558D100AB9E40 /* Assets.xcassets */; };
 		886066661D6558D100AB9E40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 886066641D6558D100AB9E40 /* LaunchScreen.storyboard */; };
 		886066701D6559B100AB9E40 /* TestScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8860666F1D6559B100AB9E40 /* TestScene.swift */; };
-		886066721D655CCD00AB9E40 /* TestScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 886066711D655CCD00AB9E40 /* TestScene.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		886066651D6558D100AB9E40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		886066671D6558D100AB9E40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8860666F1D6559B100AB9E40 /* TestScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TestScene.swift; path = ../TestScene.swift; sourceTree = "<group>"; };
-		886066711D655CCD00AB9E40 /* TestScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = TestScene.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +59,6 @@
 				8860665B1D6558D100AB9E40 /* AppDelegate.swift */,
 				8860665D1D6558D100AB9E40 /* ViewController.swift */,
 				8860666F1D6559B100AB9E40 /* TestScene.swift */,
-				886066711D655CCD00AB9E40 /* TestScene.sks */,
 				8860665F1D6558D100AB9E40 /* Main.storyboard */,
 				886066621D6558D100AB9E40 /* Assets.xcassets */,
 				886066641D6558D100AB9E40 /* LaunchScreen.storyboard */,
@@ -130,7 +127,6 @@
 			files = (
 				886066661D6558D100AB9E40 /* LaunchScreen.storyboard in Resources */,
 				886066631D6558D100AB9E40 /* Assets.xcassets in Resources */,
-				886066721D655CCD00AB9E40 /* TestScene.sks in Resources */,
 				886066611D6558D100AB9E40 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -294,6 +290,7 @@
 				8860666C1D6558D100AB9E40 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
